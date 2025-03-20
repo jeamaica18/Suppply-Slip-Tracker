@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "@fontsource/poppins";
+h1, h2, h3, .title {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400; /* Adjust to 300 (light) or 500 (medium) */
+    color: #3B5166; /* Adjust to match the exact color */
+}
+
